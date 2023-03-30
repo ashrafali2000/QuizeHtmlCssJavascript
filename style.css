@@ -1,0 +1,27 @@
+.Html ,.Css ,.Javascript{
+font-size: 22px;
+}
+input{
+width: 30px;
+}
+button.btn1{
+    margin-left: 100px;
+    background: #0f0;
+    margin-top: 20px;
+    font-size: 20px;
+}
+/* Html */
+.btnhtml,.btncss,.btnjavascript{
+    margin-left: 100px;
+    background: #0f0;
+    margin-top: 20px;
+    font-size: 20px;  
+}
+
+
+/* Css */
+/* .flex{
+    display: flex;
+    flex-direction: column;
+
+} */
